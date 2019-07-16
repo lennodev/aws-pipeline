@@ -1,0 +1,29 @@
+{
+  "name": "weight-watchers",
+  "version": "1.0.0",
+  "description": "This article series focused on implementing a serverless CI/CD with AWS services, During the implementation process we are going introduce lots of new AWS services. Due to topic complexity, the article has been divided into 2 parts. Your reading first part of the article where we will implementing Continuous Integration (CodeBuild Project, CodePipeline and test case with jest).",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sagar-gavhane/weight-watchers.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sagar-gavhane/weight-watchers/issues"
+  },
+  "homepage": "https://github.com/sagar-gavhane/weight-watchers#readme",
+  "dependencies": {
+    "aws-sdk": "^2.493.0",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "serverless-http": "^1.10.1"
+  },
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}

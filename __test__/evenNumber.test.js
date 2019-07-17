@@ -9,6 +9,6 @@ function isEven(num) {
 
 describe("test even number", () => {
   it("4 is a even number", () => {
-    expect(isOdd(4)).toBe(true);
+    expect(isEven(4)).toBe(true);
   });
 });

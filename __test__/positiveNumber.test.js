@@ -3,8 +3,8 @@ function isPositive(num) {
   return false;
 }
 
-describe("test postitive number", () => {
-  it("3 is a postitive number", () => {
+describe("test Positive number", () => {
+  it("3 is a Positive number", () => {
     expect(isPositive(17)).toBe(true);
   });
 });

@@ -4,6 +4,7 @@ function isEven(num) {
 	  return false;
   }else{
 	  return true;
+  }
 }
 
 describe("test even number", () => {

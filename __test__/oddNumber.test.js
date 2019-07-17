@@ -4,6 +4,7 @@ function isOdd(num) {
 	  return false;
   }else{
 	  return true;
+  }
 }
 
 describe("test odd number", () => {

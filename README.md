@@ -1,6 +1,6 @@
 # Implement a serverless CI/CD pipeline with AWS (Amazon Web Services).
 
-This article series focused on implementing a serverless CI/CD with AWS services, During the implementation process we are going introduce lots of new AWS services. Due to topic complexity, the article has been divided into 2 parts. Your reading first part of the article where we will implementing Continuous Integration (CodeBuild Project, CodePipeline and test case with jest).
+Testing 123. This article series focused on implementing a serverless CI/CD with AWS services, During the implementation process we are going introduce lots of new AWS services. Due to topic complexity, the article has been divided into 2 parts. Your reading first part of the article where we will implementing Continuous Integration (CodeBuild Project, CodePipeline and test case with jest).
 
 To follow the steps mentioned in this article, you should have your own [AWS free tier account](https://aws.amazon.com/free/).
 

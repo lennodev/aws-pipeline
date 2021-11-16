@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/sagar-gavhane/weight-watchers#readme",
   "dependencies": {
-    "aws-sdk": "^2.493.0",
+    "aws-sdk": "^2.814.0",
     "body-parser": "^1.19.0",
     "express": "^4.17.1",
     "serverless-http": "^1.10.1"
